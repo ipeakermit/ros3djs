@@ -4,6 +4,9 @@
 
 
 #### 3D Visualization Library for use with the ROS JavaScript Libraries
+
+*Attempted Dockerization of build*
+
 For full documentation, see [the ROS wiki](http://ros.org/wiki/ros3djs) or check out some [working demos](http://robotwebtools.org/demos.html).
 
 [JSDoc](http://robotwebtools.org/jsdoc/ros3djs/current/) can be found on the Robot Web Tools website.
